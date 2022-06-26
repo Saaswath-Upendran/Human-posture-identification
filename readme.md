@@ -15,6 +15,6 @@
 
 4. finall run maindetection.ipynb to detect Human posture 
 
-Happy codeing !!
+Happy coding !!
 
 
